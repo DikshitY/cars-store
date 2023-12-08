@@ -33,7 +33,7 @@ function CarForm() {
       }))
     }
     else{
-      alert('Fuck off')
+      alert('Add Car')
     }
   }
 
